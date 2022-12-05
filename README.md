@@ -35,7 +35,7 @@ Please adhere to Codepeak's 'code of conduct'.
 
 ## How to fork this repo
 
-![](./fork.png)
+
 
 2) There will be a prompt to change the name of the repository , fill accordingly.
 
